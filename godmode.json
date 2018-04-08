@@ -1,8 +1,8 @@
 {
    "room":"GODMODE",
    "author":"2919",
-   "icon":"",
-   "css":"https://rawgit.com/Satskhi/EDTRCS/master/EDT.css",
+   "icon":"null",
+   "css":"null",
    "rules":{
       "allowAutorespond":true,
       "allowAutowoot":true,
