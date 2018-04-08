@@ -13,36 +13,34 @@
       "allowShowingMehs":true,
       "forceSmartVote":false
    },
-   "ccc":{
-      "admin":"#00d6ff",
-      "brand ambassador":"#00ff00",
-      "site Moderator":"#ff1400",
-      "pLoT Member":"#e94b00",
-      "promoter":"#359422",
-      "host":"#0099ff",
-      "cohost":"#0099ff",
-      "manager":"#ff1e00",
-      "bouncer":"#dd00ff",
-      "rdj":"#ff9900",
-      "subscriber":"#8694b2",
-      "silversubscriber":"#8694b2",
-      "friend":"#A68CD9",
-      "you":"#ffec00"
-   },
-   "images":{
-      "background":"null",
-      "playback":"null",
-      "admin":"null",
-      "ambassador":"null",
-      "host":"https://i.imgur.com/LaiPfo7.png",
-      "cohost":"https://i.imgur.com/LaiPfo7.png",
-      "manager":"https://i.imgur.com/LKl1TjV.png",
-      "bouncer":"https://i.imgur.com/8plo73x.png",
-      "rdj":"https://i.imgur.com/KJC6J8C.png",
-      "subscriber":"http://i.imgur.com/gYyGQel.png",
-      "silversubscriber":"http://i.imgur.com/nFbwvVJ.png"
-   },
-   "emotes":{
-      "emote_name":null
-   }
+    },
+    "ccc": {
+        "admin": null,
+        "ambassador": null,
+        "host": null,
+        "cohost": null,
+        "manager": null,
+        "bouncer": null,
+        "rdj": null,
+        "subscriber": null,
+        "silversubscriber": null,
+        "friend": null,
+        "user": null
+    },
+    "images": {
+        "background": null,
+        "playback": null,
+        "admin": null,
+        "ambassador": null,
+        "host": null,
+        "cohost": null,
+        "manager": null,
+        "bouncer": null,
+        "rdj": null,
+        "subscriber": null,
+        "silversubscriber": null
+    },
+    "emotes": {
+    	"emote_name": null
+    }
 }
